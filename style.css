@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.converter-body{
+
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%-50%);
+    border: 2px solid cadetblue;
+    top: 30%;
+    left: 35%;
+}
+
+.converter-title{
+
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue;
+}
+input{
+
+    height: 25px;
+    width: 150px;
+    margin-left: 25px;
+}
+
+#inputType,#resultType{
+
+    height: 25px;
+    width: 160px;
+    margin-left: 25px;
+    color: cadetblue;
+}
+
+#resultType{
+
+    margin-left: 36px;
+    width: 160px;
+}
